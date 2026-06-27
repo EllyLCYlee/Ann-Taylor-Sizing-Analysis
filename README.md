@@ -33,7 +33,7 @@ pip install pandas matplotlib seaborn scipy
 
 ## Data Downloads
 
-The datasets are not included in the submission due to file size.
+Certain datasets are not included in the submission due to file size.
 Download each file and place it in a folder named `data/` inside
 your project directory.
 
